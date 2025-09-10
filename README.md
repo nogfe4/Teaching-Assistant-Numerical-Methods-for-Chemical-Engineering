@@ -1,7 +1,7 @@
 [EN]: 
 # Tutoring - Numerical Methods for Chemical Engineering
 
-This repository serves as support material for the tutoring sessions of the **[Course Name, e.g., Numerical Calculus]** course for the Chemical Engineering program at **[University Name]**.
+This repository serves as support material for the tutoring sessions of the **Introdução à Engenharia Química II & Métodos Computacionais aplicados à Engenharia Química II** course for the Chemical Engineering program at **UERJ**.
 
 ## 🎯 About The Project
 
@@ -84,7 +84,7 @@ This repository is made for you, the students\!
 
 # Monitoria - Métodos Numéricos para Engenharia Química
 
-Este repositório serve como material de apoio para a monitoria da disciplina de **[Nome da Disciplina, ex: Cálculo Numérico]** do curso de Engenharia Química da **[Nome da Universidade]**.
+Este repositório serve como material de apoio para a monitoria da disciplina de **Introdução à Engenharia Química II & Métodos Computacionais aplicados à Engenharia Química II*** do curso de Engenharia Química da **UERJ**.
 
 ## 🎯 Sobre o Projeto
 
