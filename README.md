@@ -11,7 +11,7 @@ This material is a supplement to the lectures and does not replace the official 
 
 ## 💻 Technologies Used
 
-  * **Python 3.11+**: Through [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) for a more interactive and visual analysis of the problems.
+  * **Python 3.11+**: Through [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) and `.py` files extensions, for a more interactive and visual analysis of the problems.
       * *Main libraries:* `NumPy`, `SciPy`, `Matplotlib`.
   * **Scilab**: Scripts (`.sce`) as a powerful, open-source alternative for numerical computation, addressing the same problems.
 
@@ -94,7 +94,7 @@ Este material é um complemento às aulas e não substitui o conteúdo oficial d
 
 ## 💻 Tecnologias Utilizadas
 
-  * **Python 3.11+**: Através de [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) para uma análise mais interativa e visual dos problemas.
+  * **Python 3.11+**: Através de [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) e arquivos com extensão `.py`, para uma análise mais interativa e visual dos problemas.
       * *Principais bibliotecas:* `NumPy`, `SciPy`, `Matplotlib`.
   * **Scilab**: Scripts (`.sce`) como alternativa de software livre para computação numérica, abordando os mesmos problemas.
 
