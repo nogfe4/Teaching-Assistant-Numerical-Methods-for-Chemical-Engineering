@@ -1,5 +1,8 @@
 [EN]: 
-# Tutoring - Numerical Methods for Chemical Engineering
+# Tutoring - Numerical Methods for Chemical Engineering 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) 
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 
 This repository serves as support material for the tutoring sessions of the **Introdução à Engenharia Química II & Métodos Computacionais aplicados à Engenharia Química II** course for the Chemical Engineering program at **UERJ**.
 
